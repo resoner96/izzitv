@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="http://programtv.ru/xmltv.xml.gz;
 Источник: https://gogosmart.pro/es/texnologii/iptv/epg.html"
 
-#EXTINF:-1 tvg-id="AztecaUno.mx" ,Azteca Uno
+#EXTINF:-1 tvg-id="AztecaUno.mx", Azteca Uno
 
 https://regioplay.xyz/php/SR_REGIO_417022_/tpnuevo03.php?key=SrRegio&c=7&f=.m3u8
 
@@ -141,7 +141,7 @@ http://regioplay.xyz/php/SR_REGIO_417022_/vix.php?c=300&pid=300&token=SrRegio&f=
 
 http://regioplay.xyz/php/SR_REGIO_417022_/vix.php?c=358&pid=358&token=SrRegio&f=.m3u8
 
-#EXTINF:-1 tvg-id="AandE.mx" ,A&E
+#EXTINF:-1 tvg-id="AandE.mx", A&E
 
 https://regioplay.xyz/php/SR_REGIO_417022_/tpnuevo03.php?key=SrRegio&c=62&f=.m3u8
 
