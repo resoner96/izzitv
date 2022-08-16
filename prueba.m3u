@@ -1,5 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="1" tvg-country="MX" tvg-id="AztecaUno.mx" ,Azteca Uno
+#EXTINF:-1 tvg-chno="1" tvg-country="MX" tvg-id="AztecaUno.mx" tvg-logo="https://imgs.search.brave.com/U9HVJRrCXWqdBKAbJp318Sk57fGPMxevbyn8gRboTBs/rs:fit:1200:426:1/g:ce/aHR0cHM6Ly92aWdu/ZXR0ZS53aWtpYS5u/b2Nvb2tpZS5uZXQv/ZG9ibGFqZS9pbWFn/ZXMvNy83OC9BenRl/Y2FfdW5vX2xvZ29f/MjAxOC5wbmcvcmV2/aXNpb24vbGF0ZXN0/P2NiPTIwMTgwMTAx/MTAxMDQ3JnBhdGgt/cHJlZml4PWVz
+" ,Azteca Uno
 
 https://regioplay.xyz/php/SR_REGIO_417022_/tpnuevo03.php?key=SrRegio&c=7&f=.m3u8
+
+#EXTINF:-1 tvg-chno="13" tvg-country="MX" tvg-id="CartoonNetwork.mx" ,Cartoon Network
+
+http://regioplay.xyz/php/SR_REGIO_417022_/tv1.php?c=269&f=.m3u8
