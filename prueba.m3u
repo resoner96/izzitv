@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="http://iptvx.one/epg/epg_lite.xml.gz"
 
 #EXTINF:-1 tvg-country="MX" tvg-id="AztecaUno.mx" ,Azteca Uno
 
