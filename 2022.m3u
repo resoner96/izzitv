@@ -746,27 +746,26 @@ http://regioplay.xyz/php/SR_REGIO_417022_/tv1.php?c=37&f=.m3u8
 
 #EXTINF:-1 group-title="NOTICIAS" tvg-country="MX" ,BBC WORLD
 
-http://regioplay.xyz/php/SR_REGIO_417022_/regiotv2.php?c=8&tokeen=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_417022_/regiotv2.php?c=8&tokeen=SrRegio&f=.m3u8|user-agent=paraplayer
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-country="MX" ,ANTENA 3 INTERNACIONAL
 
-http://regioplay.xyz/php/SR_REGIO_417022_/regiotv2.php?c=7&tokeen=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_417022_/regiotv2.php?c=7&tokeen=SrRegio&f=.m3u8|user-agent=paraplayer
 
 #EXTINF:-1 group-title="NOTICIAS" tvg-country="MX" ,CNN ESPAÑOL
-
-http://regioplay.xyz/php/SR_REGIO_417022_/regiotv2.php?c=11&tokeen=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_417022_/regiotv2.php?c=11&tokeen=SrRegio&f=.m3u8|user-agent=paraplayer
 
 #EXTINF:-1 group-title="NOTICIAS" tvg-country="MX" ,CNN INTERNACIONAL
 
-http://regioplay.xyz/php/SR_REGIO_417022_/regiotv2.php?c=12&tokeen=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_417022_/regiotv2.php?c=12&tokeen=SrRegio&f=.m3u8|user-agent=paraplayer
 
 #EXTINF:-1 group-title="NOTICIAS" tvg-country="MX" ,CABLE NOTICIAS
 
-http://regioplay.xyz/php/SR_REGIO_417022_/regiotv2.php?c=13&tokeen=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_417022_/regiotv2.php?c=13&tokeen=SrRegio&f=.m3u8|user-agent=paraplayer
 
 #EXTINF:-1 group-title="PELICULAS" tvg-country="MX" ,DHE
 
-http://regioplay.xyz/php/SR_REGIO_417022_/regiotv2.php?c=31&tokeen=SrRegio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_417022_/regiotv2.php?c=31&tokeen=SrRegio&f=.m3u8|user-agent=paraplayer
 
 #EXTINF:-1 group-title="CARICATURAS" tvg-country="MX" ,DISNEY XD
 
