@@ -791,15 +791,11 @@ http://regioplay.xyz/php/SR_REGIO_417022_/regiotv2.php?c=64&tokeen=SrRegio&f=.m3
 
 http://regioplay.xyz/php/SR_REGIO_417022_/regiotv2.php?c=66&tokeen=SrRegio&f=.m3u8|user-agent=paraplayer
 
-#EXTINF:-1 group-title="PELICULAS" tvg-country="MX" ,FX MOVIE 
-
-http://regioplay.xyz/php/SR_REGIO_417022_/regiotv2.php?c=69&tokeen=SrRegio&f=.m3u8|user-agent=paraplayer
-
 #EXTINF:-1 group-title="PELICULAS" tvg-country="MX" ,FOX PREMIUM FAMILY
 
 http://regioplay.xyz/php/SR_REGIO_417022_/regiotv2.php?c=84&tokeen=SrRegio&f=.m3u8|user-agent=paraplayer
 
-#EXTINF:-1 group-title="PELICULAS" tvg-country="MX" ,FOX PREMIUM COMEDY
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-country="MX" ,UNIVERSAL REALLITY
 
 http://regioplay.xyz/php/SR_REGIO_417022_/regiotv2.php?c=85&tokeen=SrRegio&f=.m3u8|user-agent=paraplayer
 
@@ -807,19 +803,11 @@ http://regioplay.xyz/php/SR_REGIO_417022_/regiotv2.php?c=85&tokeen=SrRegio&f=.m3
 
 http://regioplay.xyz/php/SR_REGIO_417022_/regiotv2.php?c=86&tokeen=SrRegio&f=.m3u8|user-agent=paraplayer
 
-#EXTINF:-1 group-title="PELICULAS" tvg-country="MX" ,FOX CINEMA SUBTITULADO
-
-http://regioplay.xyz/php/SR_REGIO_417022_/regiotv2.php?c=87&tokeen=SrRegio&f=.m3u8|user-agent=paraplayer
-
-#EXTINF:-1 group-title="PELICULAS" tvg-country="MX" ,FOX PREMIUM CINEMA
+#EXTINF:-1 group-title="PELICULAS" tvg-country="MX" ,UNIVERSAL CINEMA
 
 http://regioplay.xyz/php/SR_REGIO_417022_/regiotv2.php?c=88&tokeen=SrRegio&f=.m3u8|user-agent=paraplayer
 
-#EXTINF:-1 group-title="PELICULAS" tvg-country="MX"  ,FOX PREMIUM ACTION MX
-
-http://regioplay.xyz/php/SR_REGIO_417022_/regiotv2.php?c=89&tokeen=SrRegio&f=.m3u8|user-agent=paraplayer
-
-#EXTINF:-1 group-title="PELICULAS" tvg-country="MX" ,FOX PREMIUM ACTION
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-country="MX" ,UNIVERSAL CRIME
 
 http://regioplay.xyz/php/SR_REGIO_417022_/regiotv2.php?c=90&tokeen=SrRegio&f=.m3u8|user-agent=paraplayer
 
@@ -827,25 +815,13 @@ http://regioplay.xyz/php/SR_REGIO_417022_/regiotv2.php?c=90&tokeen=SrRegio&f=.m3
 
 http://regioplay.xyz/php/SR_REGIO_417022_/regiotv2.php?c=103&tokeen=SrRegio&f=.m3u8|user-agent=paraplayer
 
-#EXTINF:-1 group-title="MUSICA" tvg-country="MX" ,VH1 CLASSIC
+#EXTINF:-1 group-title="MUSICA" tvg-country="MX" ,MTV 80'S
 
 http://regioplay.xyz/php/SR_REGIO_417022_/regiotv2.php?c=100&tokeen=SrRegio&f=.m3u8|user-agent=paraplayer
 
-#EXTINF:-1 group-title="MUSICA" tvg-country="MX" ,VH1
-
-http://regioplay.xyz/php/SR_REGIO_417022_/regiotv2.php?c=101&tokeen=SrRegio&f=.m3u8|user-agent=paraplayer
-
-#EXTINF:-1 group-title="CARICATURAS" tvg-country="MX" ,NICK 2
+#EXTINF:-1 group-title="CARICATURAS" tvg-country="MX" ,TEEN NICK
 
 http://regioplay.xyz/php/SR_REGIO_417022_/regiotv2.php?c=123&tokeen=SrRegio&f=.m3u8|user-agent=paraplayer
-
-#EXTINF:-1 group-title="CARICATURAS" tvg-country="MX" ,NAT GEO KIDS MX
-
-http://regioplay.xyz/php/SR_REGIO_417022_/regiotv2.php?c=126&tokeen=SrRegio&f=.m3u8|user-agent=paraplayer
-
-#EXTINF:-1 group-title="CARICATURAS" tvg-country="MX" ,NAT GEO KIDS
-
-http://regioplay.xyz/php/SR_REGIO_417022_/regiotv2.php?c=127&tokeen=SrRegio&f=.m3u8|user-agent=paraplayer
 
 #EXTINF:-1 group-title="MUNDO Y CULTURA" tvg-country="MX" ,NAT GEO WILD
 
@@ -863,49 +839,15 @@ http://regioplay.xyz/php/SR_REGIO_417022_/regiotv2.php?c=132&tokeen=SrRegio&f=.m
 
 http://regioplay.xyz/php/SR_REGIO_417022_/regiotv2.php?c=133&tokeen=SrRegio&f=.m3u8|user-agent=paraplayer
 
-#EXTINF:-1 group-title="MUSICA" tvg-country="MX" ,TELERITMO
-
-http://regioplay.xyz/php/SR_REGIO_417022_/regiotv2.php?c=156&tokeen=SrRegio&f=.m3u8|user-agent=paraplayer
-
 #EXTINF:-1 group-title="PELICULAS" tvg-country="MX" ,CINEMAX 2
 
 http://regioplay.xyz/php/SR_REGIO_417022_/regiotv2.php?c=171&tokeen=SrRegio&f=.m3u8|user-agent=paraplayer
 
-#EXTINF:-1 group-title="CARICATURAS" tvg-country="MX" ,BOOMERANG
-
-http://regioplay.xyz/php/SR_REGIO_417022_/regiotv2.php?c=176&tokeen=SrRegio&f=.m3u8|user-agent=paraplayer
-
-#EXTINF:-1 group-title="MUSICA" tvg-country="MX" ,RITMOSON
-
-http://regioplay.xyz/php/SR_REGIO_417022_/regiotv2.php?c=178&tokeen=SrRegio&f=.m3u8|user-agent=paraplayer
-
-#EXTINF:-1 group-title="MUNDO Y APRENDIZAJE" tvg-country="MX" ,DISCOVERY CIVILIZATION
+#EXTINF:-1 group-title="MUNDO Y APRENDIZAJE" tvg-country="MX" ,HGTV
 
 http://regioplay.xyz/php/SR_REGIO_417022_/regiotv2.php?c=325&tokeen=SrRegio&f=.m3u8|user-agent=paraplayer
 
-#EXTINF:-1 group-title="MUNDO Y APRENDIZAJE" tvg-country="MX" ,OUTDOOR CHANNEL
 
-http://regioplay.xyz/php/SR_REGIO_417022_/nuevotv2.php?c=909&f=.m3u8|user-agent=paraplayer
-
-#EXTINF:-1 group-title="DEPORTES" tvg-country="MX" ,TUDN MX
-
-http://regioplay.xyz/php/SR_REGIO_417022_/nuevotv2.php?c=911&f=.m3u8|user-agent=paraplayer
-
-#EXTINF:-1 group-title="CARICATURAS" tvg-country="MX" ,BOOMERANG
-
-http://regioplay.xyz/php/SR_REGIO_417022_/nuevotv2.php?c=1036&f=.m3u8|user-agent=paraplayer
-
-#EXTINF:-1 group-title="CARICATURAS" tvg-country="MX" ,NICKTOONS
-
-http://regioplay.xyz/php/SR_REGIO_417022_/nuevotv2.php?c=1044&f=.m3u8|user-agent=paraplayer
-
-#EXTINF:-1 group-title="PELICULAS" tvg-country="MX" ,DE PELICULA CLASICO
-
-http://regioplay.xyz/php/SR_REGIO_417022_/nuevotv2.php?c=1051&f=.m3u8|user-agent=paraplayer
-
-#EXTINF:-1 group-title="PELICULAS" tvg-country="MX" ,DE PELICULA PLUS
-
-http://regioplay.xyz/php/SR_REGIO_417022_/nuevotv2.php?c=1052&f=.m3u8|user-agent=paraplayer
 
 
 
