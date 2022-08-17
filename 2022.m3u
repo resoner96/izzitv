@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="TV ABIERTA" tvg-id="AztecaUno.mx", Azteca Uno
+#EXTINF:-1 group-title="TV ABIERTA" ,Azteca Uno
 
 https://regioplay.xyz/php/SR_REGIO_417022_/tpnuevo03.php?key=SrRegio&c=7&f=.m3u8
 
@@ -140,527 +140,527 @@ http://regioplay.xyz/php/SR_REGIO_417022_/vix.php?c=300&pid=300&token=SrRegio&f=
 
 http://regioplay.xyz/php/SR_REGIO_417022_/vix.php?c=358&pid=358&token=SrRegio&f=.m3u8
 
-#EXTINF:-1 tvg-id="AandE.mx", A&E
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-id="AandE.mx", A&E
 
 https://regioplay.xyz/php/SR_REGIO_417022_/tpnuevo03.php?key=SrRegio&c=62&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,A3 SERIES
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-country="MX" ,A3 SERIES
 
 http://regioplay.xyz/php/SR_REGIO_417022_/tpnuevo03.php?key=SrRegio&c=2113&f=.m3u8 
 
-#EXTINF:-1 tvg-id="AXN.mx" ,AXN
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-id="AXN.mx" ,AXN
 
 http://regioplay.xyz/php/SR_REGIO_417022_/tv1.php?c=78&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,SONY CHANNEL
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-country="MX" ,SONY CHANNEL
 
 https://regioplay.xyz/php/SR_REGIO_417022_/tpnuevo03.php?key=SrRegio&c=48&f=.m3u8
 
-#EXTINF:-1 tvg-id="Elgourmet.mx" ,GOURMET
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-id="Elgourmet.mx" ,GOURMET
 
 https://regioplay.xyz/php/SR_REGIO_417022_/tpnuevo03.php?key=SrRegio&c=74&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" tvg-id="ElGarageTV.ar" ,GARAGE TV
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-country="MX" tvg-id="ElGarageTV.ar" ,GARAGE TV
 
 https://regioplay.xyz/php/SR_REGIO_417022_/tpnuevo03.php?key=SrRegio&c=75&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" tvg-id="Glitz.mx" ,GLITZ
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-country="MX" tvg-id="Glitz.mx" ,GLITZ
 
 https://regioplay.xyz/php/SR_REGIO_417022_/tpnuevo03.php?key=SrRegio&c=76&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" tvg-id="DistritoComedia.mx" ,DISTRITO COMEDIA
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-country="MX" tvg-id="DistritoComedia.mx" ,DISTRITO COMEDIA
 
 http://regioplay.xyz/php/SR_REGIO_417022_/vix.php?c=405&pid=405&token=SrRegio&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,TRU TV
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-country="MX" ,TRU TV
 
 https://regioplay.xyz/php/SR_REGIO_417022_/tpnuevo03.php?key=SrRegio&c=79&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" tvg-id="TeleNovelas.mx" ,TLNOVELAS
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-country="MX" tvg-id="TeleNovelas.mx" ,TLNOVELAS
 
 https://regioplay.xyz/php/SR_REGIO_417022_/tpnuevo03.php?key=SrRegio&c=83&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" tvg-id="Lifetime.mx" ,LIFETIME
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-country="MX" tvg-id="Lifetime.mx" ,LIFETIME
 
 https://regioplay.xyz/php/SR_REGIO_417022_/tpnuevo03.php?key=SrRegio&c=94&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" tvg-id="DiscoveryHomeHealth.mx" ,DISCOVERY H&H
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-country="MX" tvg-id="DiscoveryHomeHealth.mx" ,DISCOVERY H&H
 
 https://regioplay.xyz/php/SR_REGIO_417022_/tpnuevo03.php?key=SrRegio&c=96&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" tvg-id="ComedyCentral.mx" ,COMEDY CENTRAL
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-country="MX" tvg-id="ComedyCentral.mx" ,COMEDY CENTRAL
 
 https://regioplay.xyz/php/SR_REGIO_417022_/tpnuevo03.php?key=SrRegio&c=340&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,MAS CHIC
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-country="MX" ,MAS CHIC
 
 http://regioplay.xyz/php/SR_REGIO_417022_/tpnuevo03.php?key=SrRegio&c=1842&f=.m3u8  
 
-#EXTINF:-1 tvg-country="MX" ,TLN NOVELAS
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-country="MX" ,TLN NOVELAS
 
 http://regioplay.xyz/php/SR_REGIO_417022_/vix.php?c=421&pid=421&token=SrRegio&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,FOOD NETWORK
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-country="MX" ,FOOD NETWORK
 
 http://regioplay.xyz/php/SR_REGIO_417022_/tpnuevo03.php?key=SrRegio&c=2145&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" tvg-id="Star.mx" ,STAR CHANNEL
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-country="MX" tvg-id="Star.mx" ,STAR CHANNEL
 
 https://regioplay.xyz/php/SR_REGIO_417022_/tpnuevo03.php?key=SrRegio&c=46&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,STAR CHANNEL HD
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-country="MX" ,STAR CHANNEL HD
 
 https://regioplay.xyz/php/SR_REGIO_417022_/tpnuevo03.php?key=SrRegio&c=201&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,PASIONES
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-country="MX" ,PASIONES
 
 http://regioplay.xyz/php/SR_REGIO_417022_/tv1.php?c=51&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,CARACOL
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-country="MX" ,CARACOL
 
 http://regioplay.xyz/php/SR_REGIO_417022_/tv1.php?c=259&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,UNIVERSAL REALLITY
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-country="MX" ,UNIVERSAL REALLITY
 
 http://regioplay.xyz/php/SR_REGIO_417022_/tv1.php?c=68&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,E!
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-country="MX" ,E!
 
 http://regioplay.xyz/php/SR_REGIO_417022_/tv1.php?c=103&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,TOP LATINO
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-country="MX" ,TOP LATINO
 
 http://regioplay.xyz/php/SR_REGIO_417022_/tv1.php?c=123&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,WILLAX
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-country="MX" ,WILLAX
 
 http://regioplay.xyz/php/SR_REGIO_417022_/tv1.php?c=153&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,PANAMERICANA
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-country="MX" ,PANAMERICANA
 
 http://regioplay.xyz/php/SR_REGIO_417022_/tv1.php?c=167&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,RCN NOVELAS
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-country="MX" ,RCN NOVELAS
 
 http://regioplay.xyz/php/SR_REGIO_417022_/tv1.php?c=190&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,RCN
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-country="MX" ,RCN
 
 http://regioplay.xyz/php/SR_REGIO_417022_/tv1.php?c=193&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,NOVA
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-country="MX" ,NOVA
 
 http://regioplay.xyz/php/SR_REGIO_417022_/tv1.php?c=298&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,TLC
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-country="MX" ,TLC
 
 http://regioplay.xyz/php/SR_REGIO_417022_/tv1.php?c=100&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,COMEDY TV
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-country="MX" ,COMEDY TV
 
 http://regioplay.xyz/php/SR_REGIO_417022_/vix.php?c=89&pid=89&token=SrRegio&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,TOONCAST
+#EXTINF:-1 group-title="CARICATURAS" tvg-country="MX" ,TOONCAST
 
 https://regioplay.xyz/php/SR_REGIO_417022_/tpnuevo03.php?key=SrRegio&c=108&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" tvg-id="DiscoveryKids.mx" ,DISCOVERY KIDS
+#EXTINF:-1 group-title="CARICATURAS" tvg-country="MX" tvg-id="DiscoveryKids.mx" ,DISCOVERY KIDS
 
 https://regioplay.xyz/php/SR_REGIO_417022_/tpnuevo03.php?key=SrRegio&c=109&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" tvg-id="CartoonNetwork.mx" ,CARTOON NETWORK
+#EXTINF:-1 group-title="CARICATURAS" tvg-country="MX" tvg-id="CartoonNetwork.mx" ,CARTOON NETWORK
 
 http://regioplay.xyz/php/SR_REGIO_417022_/tv1.php?c=269&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" tvg-id="DisneyChannel.mx" ,DISNEY CHANNEL
+#EXTINF:-1 group-title="CARICATURAS" tvg-country="MX" tvg-id="DisneyChannel.mx" ,DISNEY CHANNEL
 
 https://regioplay.xyz/php/SR_REGIO_417022_/tpnuevo03.php?key=SrRegio&c=113&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,CARTOONITO
+#EXTINF:-1 group-title="CARICATURAS" tvg-country="MX" ,CARTOONITO
 
 https://regioplay.xyz/php/SR_REGIO_417022_/tpnuevo03.php?key=SrRegio&c=115&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" tvg-id="Nickelodeon.mx" ,NICK
+#EXTINF:-1 group-title="CARICATURAS" tvg-country="MX" tvg-id="Nickelodeon.mx" ,NICK
 
 https://regioplay.xyz/php/SR_REGIO_417022_/tpnuevo03.php?key=SrRegio&c=331&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,BABY TV
+#EXTINF:-1 group-title="CARICATURAS" tvg-country="MX" ,BABY TV
 
 https://regioplay.xyz/php/SR_REGIO_417022_/tpnuevo03.php?key=SrRegio&c=116&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,NICK JR
+#EXTINF:-1 group-title="CARICATURAS" tvg-country="MX" ,NICK JR
 
 https://regioplay.xyz/php/SR_REGIO_417022_/tpnuevo03.php?key=SrRegio&c=117&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" tvg-id="DisneyJunior.mx" ,DISNEY JUNIOR
+#EXTINF:-1 group-title="CARICATURAS" tvg-country="MX" tvg-id="DisneyJunior.mx" ,DISNEY JUNIOR
 
 https://regioplay.xyz/php/SR_REGIO_417022_/tpnuevo03.php?key=SrRegio&c=118&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,LATINO KIDS
+#EXTINF:-1 group-title="CARICATURAS" tvg-country="MX" ,LATINO KIDS
 
 https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,BITME
+#EXTINF:-1 group-title="CARICATURAS" tvg-country="MX" ,BITME
 
 https://regioplay.xyz/php/SR_REGIO_417022_/tpnuevo03.php?key=SrRegio&c=2591&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,NICK MUSIC
+#EXTINF:-1 group-title="CARICATURAS" tvg-country="MX" ,NICK MUSIC
 
 http://regioplay.xyz/php/SR_REGIO_417022_/tpnuevo03.php?key=SrRegio&c=1708&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,BABY FIRST
+#EXTINF:-1 group-title="CARICATURAS" tvg-country="MX" ,BABY FIRST
 
 http://regioplay.xyz/php/SR_REGIO_417022_/tpnuevo03.php?key=SrRegio&c=1984&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,NICK TEEN
+#EXTINF:-1 group-title="CARICATURAS" tvg-country="MX" ,NICK TEEN
 
 http://regioplay.xyz/php/SR_REGIO_417022_/tpnuevo03.php?key=SrRegio&c=2147&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,DISNEY CHANNEL 2
+#EXTINF:-1 group-title="CARICATURAS" tvg-country="MX" ,DISNEY CHANNEL 2
 
 http://regioplay.xyz/php/SR_REGIO_417022_/tv1.php?c=107&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,DISNEY JUNIOR 2
+#EXTINF:-1 group-title="CARICATURAS" tvg-country="MX" ,DISNEY JUNIOR 2
 
 http://regioplay.xyz/php/SR_REGIO_417022_/tv1.php?c=109&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,NICK 2
+#EXTINF:-1 group-title="CARICATURAS" tvg-country="MX" ,NICK 2
 
 http://regioplay.xyz/php/SR_REGIO_417022_/tv1.php?c=112&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,CARTOON NETWORK HD
+#EXTINF:-1 group-title="CARICATURAS" tvg-country="MX" ,CARTOON NETWORK HD
 
 http://regioplay.xyz/php/SR_REGIO_417022_/tv1.php?c=269&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,CARTOONITO HD
+#EXTINF:-1 group-title="CARICATURAS" tvg-country="MX" ,CARTOONITO HD
 
 http://regioplay.xyz/php/SR_REGIO_417022_/tv1.php?c=115&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,TOONCAST 2
+#EXTINF:-1 group-title="CARICATURAS" tvg-country="MX" ,TOONCAST 2
 
 http://regioplay.xyz/php/SR_REGIO_417022_/tv1.php?c=116&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,DISCOVERY KIDS 2
+#EXTINF:-1 group-title="CARICATURAS" tvg-country="MX" ,DISCOVERY KIDS 2
 
 http://regioplay.xyz/php/SR_REGIO_417022_/tv1.php?c=117&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,BOING
+#EXTINF:-1 group-title="CARICATURAS" tvg-country="MX" ,BOING
 
 http://regioplay.xyz/php/SR_REGIO_417022_/tv1.php?c=119&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,BITME 2
+#EXTINF:-1 group-title="CARICATURAS" tvg-country="MX" ,BITME 2
 
 http://regioplay.xyz/php/SR_REGIO_417022_/tv1.php?c=131&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,DISNEY
+#EXTINF:-1 group-title="CARICATURAS" tvg-country="MX" ,DISNEY
 
 http://regioplay.xyz/php/SR_REGIO_417022_/tv1.php?c=270&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,NICK MUSIC 2
+#EXTINF:-1 group-title="CARICATURAS" tvg-country="MX" ,NICK MUSIC 2
 
 http://regioplay.xyz/php/SR_REGIO_417022_/tv1.php?c=331&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,MTV LIVE
+#EXTINF:-1 group-title="MUSICA" tvg-country="MX" ,MTV LIVE
 
 https://regioplay.xyz/php/SR_REGIO_417022_/tpnuevo03.php?key=SrRegio&c=211&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,MTV
+#EXTINF:-1 group-title="MUSICA" tvg-country="MX" ,MTV
 
 https://regioplay.xyz/php/SR_REGIO_417022_/tpnuevo03.php?key=SrRegio&c=212&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,MTV HITS
+#EXTINF:-1 group-title="MUSICA" tvg-country="MX" ,MTV HITS
 
 https://regioplay.xyz/php/SR_REGIO_417022_/tpnuevo03.php?key=SrRegio&c=213&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,MTV 00'S
+#EXTINF:-1 group-title="MUSICA" tvg-country="MX" ,MTV 00'S
 
 https://regioplay.xyz/php/SR_REGIO_417022_/tpnuevo03.php?key=SrRegio&c=217&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,TELEHIT +
+#EXTINF:-1 group-title="MUSICA" tvg-country="MX" ,TELEHIT +
 
 https://regioplay.xyz/php/SR_REGIO_417022_/tpnuevo03.php?key=SrRegio&c=220&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" tvg-id="Bandamax.mx" ,BANDAMAX
+#EXTINF:-1 group-title="MUSICA" tvg-country="MX" tvg-id="Bandamax.mx" ,BANDAMAX
 
 http://regioplay.xyz/php/SR_REGIO_417022_/vix.php?c=400&pid=400&token=SrRegio&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,TELEHIT
+#EXTINF:-1 group-title="MUSICA" tvg-country="MX" ,TELEHIT
 
 http://regioplay.xyz/php/SR_REGIO_417022_/vix.php?c=417&pid=417&token=SrRegio&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,TELERITMO
+#EXTINF:-1 group-title="MUSICA" tvg-country="MX" ,TELERITMO
 
 http://regioplay.xyz/php/SR_REGIO_417022_/tpnuevo03.php?key=SrRegio&c=1943&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,TELEMUSICA
+#EXTINF:-1 group-title="MUSICA" tvg-country="MX" ,TELEMUSICA
 
 http://regioplay.xyz/php/SR_REGIO_417022_/vix.php?c=418&pid=418&token=SrRegio&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,MTV HITS 2
+#EXTINF:-1 group-title="MUSICA" tvg-country="MX" ,MTV HITS 2
 
 http://regioplay.xyz/php/SR_REGIO_417022_/tv1.php?c=88&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,HTV
+#EXTINF:-1 group-title="MUSICA" tvg-country="MX" ,HTV
 
 http://regioplay.xyz/php/SR_REGIO_417022_/tv1.php?c=89&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,BANDAMAX 2
+#EXTINF:-1 group-title="MUSICA" tvg-country="MX" ,BANDAMAX 2
 
 http://regioplay.xyz/php/SR_REGIO_417022_/tv1.php?c=90&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,MTV CLASSIC
+#EXTINF:-1 group-title="MUSICA" tvg-country="MX" ,MTV CLASSIC
 
 http://regioplay.xyz/php/SR_REGIO_417022_/tv1.php?c=121&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,TELEHIT 2
+#EXTINF:-1 group-title="MUSICA" tvg-country="MX" ,TELEHIT 2
 
 http://regioplay.xyz/php/SR_REGIO_417022_/vix.php?c=417&pid=417&token=SrRegio&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,BANDAMAX HD
+#EXTINF:-1 group-title="MUSICA" tvg-country="MX" ,BANDAMAX HD
 
 http://regioplay.xyz/php/SR_REGIO_417022_/vix.php?c=400&pid=400&token=SrRegio&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,TELEMUSICA 2
+#EXTINF:-1 group-title="MUSICA" tvg-country="MX" ,TELEMUSICA 2
 
 http://regioplay.xyz/php/SR_REGIO_417022_/vix.php?c=418&pid=418&token=SrRegio&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,TELEMUSICA+
+#EXTINF:-1 group-title="MUSICA" tvg-country="MX" ,TELEMUSICA+
 
 http://regioplay.xyz/php/SR_REGIO_417022_/vix.php?c=419&pid=419&token=SrRegio&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,MTV2
+#EXTINF:-1 group-title="MUSICA" tvg-country="MX" ,MTV2
 
 http://regioplay.xyz/php/SR_REGIO_417022_/tv1.php?c=87&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,VIDEOROLA
+#EXTINF:-1 group-title="MUSICA" tvg-country="MX" ,VIDEOROLA
 
 https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u8
 
-#EXTINF:-1 tvg-country="MX" tvg-id="DiscoveryChannel.mx" ,DISCOVERY CHANNEL
+#EXTINF:-1 group-title="MUNDO Y APRENDIZAJE" tvg-country="MX" tvg-id="DiscoveryChannel.mx" ,DISCOVERY CHANNEL
 
 https://regioplay.xyz/php/SR_REGIO_417022_/tpnuevo03.php?key=SrRegio&c=86&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" tvg-id="HistoryChannel.mx" ,HISTORY
+#EXTINF:-1 group-title="MUNDO Y APRENDIZAJE" tvg-country="MX" tvg-id="HistoryChannel.mx" ,HISTORY
 
 https://regioplay.xyz/php/SR_REGIO_417022_/tpnuevo03.php?key=SrRegio&c=89&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,NATGEO
+#EXTINF:-1 group-title="MUNDO Y APRENDIZAJE" tvg-country="MX" ,NATGEO
 
 https://regioplay.xyz/php/SR_REGIO_417022_/tpnuevo03.php?key=SrRegio&c=91&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,DISCOVERY THEATER
+#EXTINF:-1 group-title="MUNDO Y APRENDIZAJE" tvg-country="MX" ,DISCOVERY THEATER
 
 https://regioplay.xyz/php/SR_REGIO_417022_/tpnuevo03.php?key=SrRegio&c=95&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,DISCOVERY SCIENCE
+#EXTINF:-1 group-title="MUNDO Y APRENDIZAJE" tvg-country="MX" ,DISCOVERY SCIENCE
 
 https://regioplay.xyz/php/SR_REGIO_417022_/tpnuevo03.php?key=SrRegio&c=98&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,DISCOVERY WORLD
+#EXTINF:-1 group-title="MUNDO Y APRENDIZAJE" tvg-country="MX" ,DISCOVERY WORLD
 
 https://regioplay.xyz/php/SR_REGIO_417022_/tpnuevo03.php?key=SrRegio&c=101&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,DISCOVERY ID
+#EXTINF:-1 group-title="MUNDO Y APRENDIZAJE" tvg-country="MX" ,DISCOVERY ID
 
 https://regioplay.xyz/php/SR_REGIO_417022_/tpnuevo03.php?key=SrRegio&c=2376&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,DISCOVERY TURBO
+#EXTINF:-1 group-title="MUNDO Y APRENDIZAJE" tvg-country="MX" ,DISCOVERY TURBO
 
 http://regioplay.xyz/php/SR_REGIO_417022_/tpnuevo03.php?key=SrRegio&c=2379&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,HISTORYY
+#EXTINF:-1 group-title="MUNDO Y APRENDIZAJE" tvg-country="MX" ,HISTORYY
 
 http://regioplay.xyz/php/SR_REGIO_417022_/tv1.php?c=49&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,HISTORY2
+#EXTINF:-1 group-title="MUNDO Y APRENDIZAJE" tvg-country="MX" ,HISTORY2
 
 http://regioplay.xyz/php/SR_REGIO_417022_/tv1.php?c=50&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,NATGEO 2
+#EXTINF:-1 group-title="MUNDO Y APRENDIZAJE" tvg-country="MX" ,NATGEO 2
 
 http://regioplay.xyz/php/SR_REGIO_417022_/tv1.php?c=92&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,ANIMAL PLANET
+#EXTINF:-1 group-title="MUNDO Y APRENDIZAJE" tvg-country="MX" ,ANIMAL PLANET
 
 http://regioplay.xyz/php/SR_REGIO_417022_/tv1.php?c=94&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,DISCOVERY TURBO 2
+#EXTINF:-1 group-title="MUNDO Y APRENDIZAJE" tvg-country="MX" ,DISCOVERY TURBO 2
 
 http://regioplay.xyz/php/SR_REGIO_417022_/tv1.php?c=96&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,DISCOVERY ID 2
+#EXTINF:-1 group-title="MUNDO Y APRENDIZAJE" tvg-country="MX" ,DISCOVERY ID 2
 
 http://regioplay.xyz/php/SR_REGIO_417022_/tv1.php?c=98&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,DISCOVERY 2
+#EXTINF:-1 group-title="MUNDO Y APRENDIZAJE" tvg-country="MX" ,DISCOVERY 2
 
 http://regioplay.xyz/php/SR_REGIO_417022_/tv1.php?c=102&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,DISCOVERY SCIENCE 2
+#EXTINF:-1 group-title="MUNDO Y APRENDIZAJE" tvg-country="MX" ,DISCOVERY SCIENCE 2
 
 http://regioplay.xyz/php/SR_REGIO_417022_/tv1.php?c=230&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,DISCOVERY CHANNEL 2
+#EXTINF:-1 group-title="MUNDO Y APRENDIZAJE" tvg-country="MX" ,DISCOVERY CHANNEL 2
 
 http://regioplay.xyz/php/SR_REGIO_417022_/tv1.php?c=95&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,WARNER CHANNEL
+#EXTINF:-1 group-title="PELICULAS" tvg-country="MX" ,WARNER CHANNEL
 
 https://regioplay.xyz/php/SR_REGIO_417022_/tpnuevo03.php?key=SrRegio&c=52&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,SYFY
+#EXTINF:-1 group-title="PELICULAS" tvg-country="MX" ,SYFY
 
 https://regioplay.xyz/php/SR_REGIO_417022_/tpnuevo03.php?key=SrRegio&c=59&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,D PELICULA+
+#EXTINF:-1 group-title="PELICULAS" tvg-country="MX" ,D PELICULA+
 
 https://regioplay.xyz/php/SR_REGIO_417022_/tpnuevo03.php?key=SrRegio&c=121&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,GOLDEN
+#EXTINF:-1 group-title="PELICULAS" tvg-country="MX" ,GOLDEN
 
 https://regioplay.xyz/php/SR_REGIO_417022_/tpnuevo03.php?key=SrRegio&c=123&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,GOLDEN EDGE
+#EXTINF:-1 group-title="PELICULAS" tvg-country="MX" ,GOLDEN EDGE
 
 http://regioplay.xyz/php/SR_REGIO_417022_/vix.php?c=407&pid=407&token=SrRegio&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,SPACE
+#EXTINF:-1 group-title="PELICULAS" tvg-country="MX" ,SPACE
 
 https://regioplay.xyz/php/SR_REGIO_417022_/tpnuevo03.php?key=SrRegio&c=129&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,STUDIO UNIVERSAL
+#EXTINF:-1 group-title="PELICULAS" tvg-country="MX" ,STUDIO UNIVERSAL
 
 https://regioplay.xyz/php/SR_REGIO_417022_/tpnuevo03.php?key=SrRegio&c=132&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,FILM&ARTS
+#EXTINF:-1 group-title="PELICULAS" tvg-country="MX" ,FILM&ARTS
 
 https://regioplay.xyz/php/SR_REGIO_417022_/tpnuevo03.php?key=SrRegio&c=137&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,MORBIDO
+#EXTINF:-1 group-title="PELICULAS" tvg-country="MX" ,MORBIDO
 
 https://regioplay.xyz/php/SR_REGIO_417022_/tpnuevo03.php?key=SrRegio&c=140&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,CINEMAX
+#EXTINF:-1 group-title="PELICULAS" tvg-country="MX" ,CINEMAX
 
 https://regioplay.xyz/php/SR_REGIO_417022_/tpnuevo03.php?key=SrRegio&c=158&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,D PELICULA
+#EXTINF:-1 group-title="PELICULAS" tvg-country="MX" ,D PELICULA
 
 https://regioplay.xyz/php/SR_REGIO_417022_/tpnuevo03.php?key=SrRegio&c=335&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,D PELICULAS
+#EXTINF:-1 group-title="PELICULAS" tvg-country="MX" ,D PELICULAS
 
 http://regioplay.xyz/php/SR_REGIO_417022_/vix.php?c=354&pid=354&token=SrRegio&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,D PELICULAS+
+#EXTINF:-1 group-title="PELICULAS" tvg-country="MX" ,D PELICULAS+
 
 http://regioplay.xyz/php/SR_REGIO_417022_/vix.php?c=404&pid=404&token=SrRegio&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,GOLDEN EDGE 2
+#EXTINF:-1 group-title="PELICULAS" tvg-country="MX" ,GOLDEN EDGE 2
 
 http://regioplay.xyz/php/SR_REGIO_417022_/vix.php?c=410&pid=410&token=SrRegio&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,GOLDEN PLUS
+#EXTINF:-1 group-title="PELICULAS" tvg-country="MX" ,GOLDEN PLUS
 
 http://regioplay.xyz/php/SR_REGIO_417022_/vix.php?c=414&pid=414&token=SrRegio&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,GOLDEN SOUTH
+#EXTINF:-1 group-title="PELICULAS" tvg-country="MX" ,GOLDEN SOUTH
 
 http://regioplay.xyz/php/SR_REGIO_417022_/vix.php?c=409&pid=409&token=SrRegio&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,GOLDEN+
+#EXTINF:-1 group-title="PELICULAS" tvg-country="MX" ,GOLDEN+
 
 http://regioplay.xyz/php/SR_REGIO_417022_/vix.php?c=406&token=SrRegio&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,GOLDEN2
+#EXTINF:-1 group-title="PELICULAS" tvg-country="MX" ,GOLDEN2
 
 http://regioplay.xyz/php/SR_REGIO_417022_/vix.php?c=409&token=SrRegio&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,GOLDEN EDGE 2
+#EXTINF:-1 group-title="PELICULAS" tvg-country="MX" ,GOLDEN EDGE 2
 
 http://regioplay.xyz/php/SR_REGIO_417022_/vix.php?c=407&token=SrRegio&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,GOLDEN PLUS 2
+#EXTINF:-1 group-title="PELICULAS" tvg-country="MX" ,GOLDEN PLUS 2
 
 http://regioplay.xyz/php/SR_REGIO_417022_/vix.php?c=410&token=SrRegio&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,GOLDEN+2
+#EXTINF:-1 group-title="PELICULAS" tvg-country="MX" ,GOLDEN+2
 
 https://regioplay.xyz/php/SR_REGIO_417022_/tpnuevo03.php?key=SrRegio&c=122&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,CINECANAL
+#EXTINF:-1 group-title="PELICULAS" tvg-country="MX" ,CINECANAL
 
 https://regioplay.xyz/php/SR_REGIO_417022_/tpnuevo03.php?key=SrRegio&c=149&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,PARAMOUNT CHANNEL
+#EXTINF:-1 group-title="PELICULAS" tvg-country="MX" ,PARAMOUNT CHANNEL
 
 https://regioplay.xyz/php/SR_REGIO_417022_/tpnuevo03.php?key=SrRegio&c=1726&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,UNIVERSAL CHANNEL
+#EXTINF:-1 group-title="PELICULAS" tvg-country="MX" ,UNIVERSAL CHANNEL
 
 https://regioplay.xyz/php/SR_REGIO_417022_/tpnuevo03.php?key=SrRegio&c=57&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,HBO FAMILY
+#EXTINF:-1 group-title="PELICULAS" tvg-country="MX" ,HBO FAMILY
 
 http://regioplay.xyz/php/SR_REGIO_417022_/tv1.php?c=34&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,TNT SERIES
+#EXTINF:-1 group-title="PELICULAS" tvg-country="MX" ,TNT SERIES
 
 http://regioplay.xyz/php/SR_REGIO_417022_/tv1.php?c=76&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,MULTIPREMIER
+#EXTINF:-1 group-title="PELICULAS" tvg-country="MX" ,MULTIPREMIER
 
 http://regioplay.xyz/php/SR_REGIO_417022_/tv1.php?c=81&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,CINELATINO
+#EXTINF:-1 group-title="PELICULAS" tvg-country="MX" ,CINELATINO
 
 http://regioplay.xyz/php/SR_REGIO_417022_/tv1.php?c=84&f=.m3u
 
-#EXTINF:-1 tvg-country="MX" ,HBO
+#EXTINF:-1 group-title="PELICULAS" tvg-country="MX" ,HBO
 
 http://regioplay.xyz/php/SR_REGIO_417022_/tv1.php?c=207&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,HBO2
+#EXTINF:-1 group-title="PELICULAS" tvg-country="MX" ,HBO2
 
 http://regioplay.xyz/php/SR_REGIO_417022_/tv1.php?c=209&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,HBO XTREME
+#EXTINF:-1 group-title="PELICULAS" tvg-country="MX" ,HBO XTREME
 
 http://regioplay.xyz/php/SR_REGIO_417022_/tv1.php?c=35&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,TCM
+#EXTINF:-1 group-title="PELICULAS" tvg-country="MX" ,TCM
 
 http://regioplay.xyz/php/SR_REGIO_417022_/tv1.php?c=152&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,FX
+#EXTINF:-1 group-title="PELICULAS" tvg-country="MX" ,FX
 
 http://regioplay.xyz/php/SR_REGIO_417022_/tv1.php?c=70&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,AMC
+#EXTINF:-1 group-title="PELICULAS" tvg-country="MX" ,AMC
 
 http://regioplay.xyz/php/SR_REGIO_417022_/tv1.php?c=82&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,TNT
+#EXTINF:-1 group-title="PELICULAS" tvg-country="MX" ,TNT
 
 http://regioplay.xyz/php/SR_REGIO_417022_/tv1.php?c=214&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,UNIVERSAL CHANNEL HD
+#EXTINF:-1 group-title="PELICULAS" tvg-country="MX" ,UNIVERSAL CHANNEL HD
 
 https://regioplay.xyz/php/SR_REGIO_417022_/tpnuevo03.php?key=SrRegio&c=207&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,FX HD
+#EXTINF:-1 group-title="PELICULAS" tvg-country="MX" ,FX HD
 
 https://regioplay.xyz/php/SR_REGIO_417022_/tpnuevo03.php?key=SrRegio&c=209&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,WARNER HD
+#EXTINF:-1 group-title="PELICULAS" tvg-country="MX" ,WARNER HD
 
 https://regioplay.xyz/php/SR_REGIO_417022_/tpnuevo03.php?key=SrRegio&c=205&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,WARNER BROS HD
+#EXTINF:-1 group-title="PELICULAS" tvg-country="MX" ,WARNER BROS HD
 
 http://regioplay.xyz/php/SR_REGIO_417022_/tv1.php?c=40&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,TNT HD
+#EXTINF:-1 group-title="PELICULAS" tvg-country="MX" ,TNT HD
 
 http://regioplay.xyz/php/SR_REGIO_417022_/tv1.php?c=222&f=.m3u8
 
