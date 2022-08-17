@@ -1,94 +1,94 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="AztecaUno.mx", Azteca Uno
+#EXTINF:-1 group-title="TV ABIERTA" tvg-id="AztecaUno.mx", Azteca Uno
 
 https://regioplay.xyz/php/SR_REGIO_417022_/tpnuevo03.php?key=SrRegio&c=7&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,Azteca 7
+#EXTINF:-1 group-title="TV ABIERTA" tvg-country="MX" ,Azteca 7
 
 https://regioplay.xyz/php/SR_REGIO_417022_/tpnuevo03.php?key=SrRegio&c=21&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,Azteca 7.2
+#EXTINF:-1 group-title="TV ABIERTA" tvg-country="MX" ,Azteca 7.2
 
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,Las estrellas
+#EXTINF:-1 group-title="TV ABIERTA" tvg-country="MX" ,Las estrellas
 
 http://regioplay.xyz/php/SR_REGIO_417022_/vix.php?c=415&pid=415&token=SrRegio&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,Canal 4
+#EXTINF:-1 group-title="TV ABIERTA" tvg-country="MX" ,Canal 4
 
 http://regioplay.xyz/php/SR_REGIO_417022_/tpnuevo03.php?key=SrRegio&c=2274&f=.m3u8  
 
-#EXTINF:-1 tvg-country="MX" ,Canal 5
+#EXTINF:-1 group-title="TV ABIERTA" tvg-country="MX" ,Canal 5
 
 https://regioplay.xyz/php/SR_REGIO_417022_/tpnuevo03.php?key=SrRegio&c=20&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,Canal 6 (Multimedios)
+#EXTINF:-1 group-title="TV ABIERTA" tvg-country="MX" ,Canal 6 (Multimedios)
 
 https://regioplay.xyz/php/SR_REGIO_417022_/tpnuevo03.php?key=SrRegio&c=2305&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,NU9VE
+#EXTINF:-1 group-title="TV ABIERTA" tvg-country="MX" ,NU9VE
 
 https://regioplay.xyz/php/SR_REGIO_417022_/tpnuevo03.php?key=SrRegio&c=24&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,Once
+#EXTINF:-1 group-title="TV ABIERTA" tvg-country="MX" ,Once
 
 https://regioplay.xyz/php/SR_REGIO_417022_/tpnuevo03.php?key=SrRegio&c=25&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,Imagen Television
+#EXTINF:-1 group-title="TV ABIERTA" tvg-country="MX" ,Imagen Television
 
 https://regioplay.xyz/php/SR_REGIO_417022_/tpnuevo03.php?key=SrRegio&c=2298&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,Multimedios CDMX
+#EXTINF:-1 group-title="TV ABIERTA" tvg-country="MX" ,Multimedios CDMX
 
 http://regioplay.xyz/php/SR_REGIO_417022_/tpnuevo03.php?key=SrRegio&c=1253&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,Teleformula
+#EXTINF:-1 group-title="TV ABIERTA" tvg-country="MX" ,Teleformula
 
 https://regioplay.xyz/php/SR_REGIO_417022_/tpnuevo03.php?key=SrRegio&c=32&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,Telemundo Internacional
+#EXTINF:-1 group-title="TV ABIERTA" tvg-country="MX" ,Telemundo Internacional
 
 https://regioplay.xyz/php/SR_REGIO_417022_/tpnuevo03.php?key=SrRegio&c=85&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,Televisa Puebla
+#EXTINF:-1 group-title="TV ABIERTA" tvg-country="MX" ,Televisa Puebla
 
 http://regioplay.xyz/php/SR_REGIO_417022_/tpnuevo03.php?key=SrRegio&c=2312&f=.m3u8 
 
-#EXTINF:-1 tvg-country="MX" ,Unicable
+#EXTINF:-1 group-title="TV ABIERTA" tvg-country="MX" ,Unicable
 
 http://regioplay.xyz/php/SR_REGIO_417022_/vix.php?c=423&pid=423&token=SrRegio&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,CANAL 5 HD
+#EXTINF:-1 group-title="TV ABIERTA" tvg-country="MX" ,CANAL 5 HD
 
 http://regioplay.xyz/php/SR_REGIO_417022_/tpnuevo03.php?key=SrRegio&c=1785&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,LAS ESTRELLAS HD
+#EXTINF:-1 group-title="TV ABIERTA" tvg-country="MX" ,LAS ESTRELLAS HD
 
 http://regioplay.xyz/php/SR_REGIO_417022_/tpnuevo03.php?key=SrRegio&c=1784&f=.m3u8  
 
-#EXTINF:-1 tvg-country="MX" ,NU9VE HD
+#EXTINF:-1 group-title="TV ABIERTA" tvg-country="MX" ,NU9VE HD
 
 http://regioplay.xyz/php/SR_REGIO_417022_/tpnuevo03.php?key=SrRegio&c=1783&f=.m3u8  
 
-#EXTINF:-1 tvg-country="MX" ,ONCE HD
+#EXTINF:-1 group-title="TV ABIERTA" tvg-country="MX" ,ONCE HD
 
 http://regioplay.xyz/php/SR_REGIO_417022_/tpnuevo03.php?key=SrRegio&c=1942&f=.m3u8  
 
-#EXTINF:-1 tvg-country="MX" ,TELEMUNDO NY
+#EXTINF:-1 group-title="TV ABIERTA" tvg-country="MX" ,TELEMUNDO NY
 
 https://regioplay.xyz/php/SR_REGIO_417022_/telemundo.php?token=SrRegio&c=telemundoNY&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,TELEMUNDO 52
+#EXTINF:-1 group-title="TV ABIERTA" tvg-country="MX" ,TELEMUNDO 52
 
 http://regioplay.xyz/php/SR_REGIO_417022_/tv1.php?c=271&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,AMERICA TV
+#EXTINF:-1 group-title="TV ABIERTA" tvg-country="MX" ,AMERICA TV
 
 http://regioplay.xyz/php/SR_REGIO_417022_/tv1.php?c=274&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,GALAVISION
+#EXTINF:-1 group-title="TV ABIERTA" tvg-country="MX" ,GALAVISION
 
 http://regioplay.xyz/php/SR_REGIO_417022_/tv1.php?c=55&f=.m3u8
 
@@ -96,47 +96,47 @@ http://regioplay.xyz/php/SR_REGIO_417022_/tv1.php?c=55&f=.m3u8
 
 http://regioplay.xyz/php/SR_REGIO_417022_/tv1.php?c=46&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,UNIMAS
+#EXTINF:-1 group-title="TV ABIERTA" tvg-country="MX" ,UNIMAS
 
 http://regioplay.xyz/php/SR_REGIO_417022_/tv1.php?c=64&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,NOTICIAS UNIVISION
+#EXTINF:-1 group-title="TV ABIERTA" tvg-country="MX" ,NOTICIAS UNIVISION
 
 http://regioplay.xyz/php/SR_REGIO_417022_/tv1.php?c=179&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,ESTRELLA TV
+#EXTINF:-1 group-title="TV ABIERTA" tvg-country="MX" ,ESTRELLA TV
 
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,CANAL 26 AGUASCALIENTES
+#EXTINF:-1 group-title="TV ABIERTA" tvg-country="MX" ,CANAL 26 AGUASCALIENTES
 
 http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,ADN40
+#EXTINF:-1 group-title="NOTICIAS" tvg-country="MX" ,ADN40
 
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,RT NOTICIAS
+#EXTINF:-1 group-title="NOTICIAS" tvg-country="MX" ,RT NOTICIAS
 
 http://regioplay.xyz/php/SR_REGIO_417022_/tv1.php?c=67&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,CGTN ESPAÑOL
+#EXTINF:-1 group-title="NOTICIAS" tvg-country="MX" ,CGTN ESPAÑOL
 
 http://regioplay.xyz/php/SR_REGIO_417022_/tv1.php?c=118&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,RTS NOTICIAS
+#EXTINF:-1 group-title="NOTICIAS" tvg-country="MX" ,RTS NOTICIAS
 
 http://regioplay.xyz/php/SR_REGIO_417022_/tv1.php?c=313&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,EURONEWS
+#EXTINF:-1 group-title="NOTICIAS" tvg-country="MX" ,EURONEWS
 
 http://regioplay.xyz/php/SR_REGIO_417022_/vix.php?c=255&pid=255&token=SrRegio&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,FORO TV
+#EXTINF:-1 group-title="NOTICIAS" tvg-country="MX" ,FORO TV
 
 http://regioplay.xyz/php/SR_REGIO_417022_/vix.php?c=300&pid=300&token=SrRegio&f=.m3u8
 
-#EXTINF:-1 tvg-country="MX" ,CNN COLOMBIA
+#EXTINF:-1 group-title="NOTICIAS" tvg-country="CO" ,CNN COLOMBIA
 
 http://regioplay.xyz/php/SR_REGIO_417022_/vix.php?c=358&pid=358&token=SrRegio&f=.m3u8
 
